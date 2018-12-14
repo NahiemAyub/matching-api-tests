@@ -12,7 +12,7 @@ Getting started
 
 To run a specific test:
 ```text
-mvn clean -Dtest=GetMatchingTest test
+mvn clean -Dtest=GetMatchTest test
 ```
 
 To run all simulations:

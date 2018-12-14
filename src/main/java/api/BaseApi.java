@@ -2,5 +2,5 @@ package api;
 
 public class BaseApi {
 
-    protected static final String baseUrl = "http://hotel-test.equalexperts.io/";
+    protected static final String baseUrlMatch = "http://localhost:8080/";
 }
